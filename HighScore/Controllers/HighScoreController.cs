@@ -50,11 +50,15 @@ namespace HighScore.Controllers
                 }
                 strReturn += "},";
             }
-            strReturn = strReturn.Substring(0, strReturn.Length - 1);
+            if (strReturn != "[")
+            {
+                strReturn = strReturn.Substring(0, strReturn.Length - 1);
+            }
             strReturn += "]";
             return strReturn;
         }
-        
+
+
         [HttpPost("AddScore")]
         /*
         public string AddScore([FromBody]int LeaderboardId, [FromBody] string apiKey, [FromBody] string username, [FromBody] decimal score)

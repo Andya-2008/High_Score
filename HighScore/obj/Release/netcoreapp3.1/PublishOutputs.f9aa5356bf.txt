@@ -1,0 +1,13 @@
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\HighScore.exe
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\HighScore.dll
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\HighScore.deps.json
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\HighScore.runtimeconfig.json
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\HighScore.pdb
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dhyun\Source\Repos\High_Score\HighScore\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

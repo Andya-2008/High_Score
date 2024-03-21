@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HighScore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+936bc887b5c630cf4a6a9bc2e1c3ec864da1d456")]
 [assembly: System.Reflection.AssemblyProductAttribute("HighScore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HighScore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

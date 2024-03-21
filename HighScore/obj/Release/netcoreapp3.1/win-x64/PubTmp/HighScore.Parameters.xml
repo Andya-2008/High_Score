@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="calebhyun-001-site7" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\andre\\source\\repos\\HighScore\\HighScore\\obj\\Release\\netcoreapp3\.1\\win-x64\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="highscores" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\dhyun\\Source\\Repos\\High_Score\\HighScore\\obj\\Release\\netcoreapp3\.1\\win-x64\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
